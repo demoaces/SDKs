@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\API">
+      <UniqueIdentifier>{c94dee4c-dde4-4c4f-9c25-9d0d149524f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Assets">
+      <UniqueIdentifier>{5e49aa03-c497-4b33-b32e-daedad7a6eec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Shaders">
+      <UniqueIdentifier>{bb22db4a-e9ca-4d42-aaad-b73159c402fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Fonts">
+      <UniqueIdentifier>{9ccf09de-7cd7-421b-a6d1-dcdbeacd37be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Camera">
+      <UniqueIdentifier>{7ad4b328-f7fc-4b2a-9257-86a6fa736326}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GUI">
+      <UniqueIdentifier>{76782b29-b0f5-4f7a-9235-c2d7c0309bcf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Font">
+      <UniqueIdentifier>{944502c5-95cb-49db-8425-8684a2646934}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Shader">
+      <UniqueIdentifier>{32222236-f528-4232-a926-39c42221f4ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Parse">
+      <UniqueIdentifier>{499bdd30-1199-4408-aa2d-c78eb47fff65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Loader">
+      <UniqueIdentifier>{a29aa7d2-b786-4282-878e-d60fc8a7ce00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\FileSystem">
+      <UniqueIdentifier>{600d8634-f143-4da4-85e9-dc8433061e78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GPU">
+      <UniqueIdentifier>{292e54e4-4d69-4346-bae5-0a5effc50370}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\BRDF">
+      <UniqueIdentifier>{8a79ce51-93c1-4fb5-bfca-24476a4e013c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene">
+      <UniqueIdentifier>{63d90086-4356-432f-95ca-fcc0628316e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Shot">
+      <UniqueIdentifier>{1593e4f3-f791-4cb4-9f77-62e99570366a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\FX">
+      <UniqueIdentifier>{6f688fd9-67fa-4e73-b195-6749dc2a50ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Particle">
+      <UniqueIdentifier>{70cf98a0-7b42-4ca3-b0e9-36f46b80c1b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Common">
+      <UniqueIdentifier>{fd13edeb-9b43-4929-ad6f-ec7ad9cadd9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Texture">
+      <UniqueIdentifier>{fca0990a-e6ca-49cc-a34e-3b11598379e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Material">
+      <UniqueIdentifier>{6f716a39-3580-4781-96f5-956b2c4c3b69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Render">
+      <UniqueIdentifier>{5cca3f0c-84ec-4231-808d-a75c54f4bf7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Audio">
+      <UniqueIdentifier>{df101c58-135f-4e1e-8423-4b2d311d84ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Thread">
+      <UniqueIdentifier>{8f9f6457-50f7-4653-9013-7b81942aecb9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Async">
+      <UniqueIdentifier>{0d3c5da7-2bae-4193-b11d-b8f6219db305}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Phys">
+      <UniqueIdentifier>{1b65e452-9a46-4862-97a6-54736a509683}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\OS">
+      <UniqueIdentifier>{af0654b0-57c5-46b2-95fb-75194bdaa935}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Platform">
+      <UniqueIdentifier>{d6c69b6b-2125-4240-af11-2791a317837f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Setup">
+      <UniqueIdentifier>{d47f1efd-19fb-4eb6-941d-e6442c3f1093}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+</Project>
